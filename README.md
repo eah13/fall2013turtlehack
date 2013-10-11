@@ -8,6 +8,13 @@ A library to have more fun with Turtles
 
 ## Usage
 
+Tkinter is required.  If you don't have it, type this in an Ubuntu terminal:
+```
+sudo apt-get install python-tk
+```
+
+Here's some example code:
+
 ```
 import turtle
 import turtlehack
